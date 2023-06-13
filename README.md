@@ -1,2 +1,2 @@
 # odin-recipes
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it
+This is meant to be a simple website to practice html skills - including simple structures with <p>, <ul>, <ol>, <a>, <img>; relative and absolute links; parent and child directories; and of course, updates using Git and GitHub.
