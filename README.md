@@ -1,2 +1,2 @@
 # odin-recipes
-This is meant to be a simple website to practice html skills - including simple structures with <p>, <ul>, <ol>, <a>, <img>; relative and absolute links; parent and child directories; and of course, updates using Git and GitHub.
+This is meant to be a simple website to practice html skills - including simple structures with paragraphs, lists, the anchor element, and the img element; relative and absolute links; parent and child directories; and of course, updates using Git and GitHub.
